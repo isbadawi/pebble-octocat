@@ -1,0 +1,23 @@
+{
+  "uuid": "21a1e450-d9e0-4867-a0f6-383c46b92fd0",
+  "shortName": "pebble-octocat",
+  "longName": "pebble-octocat",
+  "companyName": "Ismail Badawi",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "OCTOCAT",
+        "file": "GitHub-Mark-Light-120px-plus.png"
+      }
+    ]
+  }
+}
